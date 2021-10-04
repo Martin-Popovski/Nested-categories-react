@@ -1,0 +1,22 @@
+body,
+html {
+  margin: 0;
+  padding: 0;
+}
+
+.category {
+  border: 1px solid black;
+  padding: 20px;
+  margin: 20px;
+}
+
+.category-button {
+  cursor: pointer;
+  margin-left: 20px;
+  color: white;
+  background-color: rgb(24,42,59);
+  outline: none;
+  border: 1px solid black;
+}
+
+

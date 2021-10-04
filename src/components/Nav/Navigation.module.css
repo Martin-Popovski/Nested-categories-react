@@ -1,0 +1,23 @@
+.mainHeader {
+  height: 100px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: rgb(24,42,59);
+}
+
+.mainHeader nav {
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.mainHeader nav span {
+  color: white;
+  font-weight: bold;
+  font-family: sans-serif;
+}
+
+
+
